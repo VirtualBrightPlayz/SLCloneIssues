@@ -1,6 +1,8 @@
 # SLCloneIssues
 Issue tracker for https://virtualbrightplayz.itch.io/slclone
 
+[Discord](https://discord.gg/B2FCFRm)
+
 ## Translations Resources
 
 [Default English .csv file](https://virtualwebsite.net/files/SLTwo/translations.csv)
